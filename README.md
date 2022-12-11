@@ -37,8 +37,8 @@
 </div>
 <br>
 <div align=center>
-  <a href="https://github.com/hoon2-kim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon2-kim&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="hoon2-kim's github stats" /></a> 
-  <a href="https://github.com/hoon2-kim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon2-kim&layout=compact&theme=buefy&hide_border=true" />
+  | <a href="https://github.com/hoon2-kim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoon2-kim&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="hoon2-kim's github stats" /></a> | <a href="https://github.com/hoon2-kim&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   </a> 
 
 
