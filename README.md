@@ -2,6 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=안녕하세요!&fontSize=90" />
 </div>
 <br>
+
+<p align="center">반갑습니다~👋 백엔드 개발자 김상훈입니다.</p>
+<p align="center">끝까지 해내는 끈기를 가지고 있습니다.</p>
+<p align="center">왜? 라는 호기심이 중요하다고 생각합니다.</p>
+<br>
 <div align="center">
   <h3> 📚 Tech Stack 📚 </h3>
 </div>
