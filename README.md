@@ -50,5 +50,5 @@
 
 
 
-![snake gif](https://github.com/hoon2-kim/hoon2-kim/blob/output/github-contribution-grid-snake.svg)
+
 
